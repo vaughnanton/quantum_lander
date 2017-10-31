@@ -2,6 +2,7 @@ This repo is home to a sample multi-step landing page. The page was tested to wo
 
   * iPhone 6
   * iPhone 7+
+  * iPhone X
   * iPad mini
   * 11" Macbook Air
   * 15" Macbook Pro
